@@ -1,0 +1,41 @@
+﻿Survey Question,Column Name 
+Timestamp,Timestamp
+In which State/UT do you currently live?,State
+What is your age?,Age
+Please select your gender.,Gender
+How would you describe your occupation?,Occupation
+How many earning members are there in your immediate family?,Earning Members
+What is your annual household income (in rupees â‚¹)?,Household Income
+How has your overall household income changed during COVID-19?,Income Affected
+Do you or your family have any pending loan(s)?,Loan
+Did you or anyone in your family get infected by COVID-19?,Covid positive
+Did you get vaccinated for COVID-19?,Vaccine
+"Do you have any health issue(s)? (If more than one, then please select your major health issue)",Health Issues
+How often do you exercise or meditate?,Exercise
+How has COVID-19 impacted your life and future plans/goals?,Goals
+"During lockdown, how often do you interact (on calls/chats) with your relatives & friends?",Social Interaction
+How has your appetite changed during the lockdown?,Appetite change
+How have your sleeping hours been affected due to the lockdown?,Sleep
+How satisfied are you with your state government's measures to handle COVID-19?,Govt.
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I felt scared without any good reason]",Anxiety 1
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I felt I was close to a panic attack]",Anxiety 2
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [Experienced dryness of my mouth]",Anxiety 3
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [Experienced breathing difficulty (without any physical exertion)]",Anxiety 4
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [Experienced trembling (e.g. in the hands)]",Anxiety 5
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [Worried about situations in which I might make a fool of myself]",Anxiety 6
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [Increase in heart rate without any physical exertion]",Anxiety 7
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I didn't experience any positive feeling at all]",Depression 1
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I found it difficult to take the initiative to do things]",Depression 2
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I felt that I had nothing to look forward to]",Depression 3
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I felt down-hearted and blue]",Depression 4
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I was unable to feel enthusiastic about anything]",Depression 5
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I felt I wasnâ€™t worth much as a person]",Depression 6
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I felt that life was meaningless]",Depression 7
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I found it hard to take things easily]",Stress 1
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I tended to over-react to situations]",Stress 2
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I felt that I was nervous ]",Stress 3
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I found myself getting agitated]",Stress 4
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I found it difficult to relax]",Stress 5
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I was generally intolerant of things]",Stress 6
+"Please read each statement and select number 0, 1, 2 or 3 which indicates how much the statement applied to you over the past 3-4 weeks. (0 being the least; 3 being the most) [I felt unusually sensitive ]",Stress 7
+"During the past one month, which of the following have you experienced the most?",Most Experienced Issue
